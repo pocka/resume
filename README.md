@@ -35,9 +35,13 @@ GitHub|[https://github.com/pocka](https://github.com/pocka)
 + ライブラリ関連
   - React
   - Redux
+  - `react-router`
   - [deku](https://github.com/anthonyshort/deku)
 
 ### バックエンド
 
 + PHP
+  - フレームワーク使用経験なし
 + Go
+  - `net/http`
+  - `go-swagger`を用いたOpenAPIによる定義からのコード生成
