@@ -6,12 +6,14 @@
 ---|---
 氏名|藤井晶太
 GitHub|[https://github.com/pocka](https://github.com/pocka)
+個人Website|[https://pocka.onl](https://pocka.onl)
 
 ## 職務経歴
 
 期間|会社名|所在地
 ---|---|---
 2014/07/01~2017/04/30|株式会社アスページ|東京都
+2017/05/01~|株式会社インプレッシブ|東京都
 
 ## 職務内容
 
