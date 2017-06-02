@@ -23,6 +23,13 @@ GitHub|[https://github.com/pocka](https://github.com/pocka)
 ---|---|---|
 2014/08/01~2017/03/31|官公庁システムの運用業務|システム監視、業務・システムオペレーション、報告書作成、内部ツール作成
 
+### 株式会社インプレッシブ
+
+期間|業務内容|担当業務
+---|---|---|
+2017/05/08~|サーバサイドエンジニアリング|設計・実装
+
+
 ## スキル
 
 ### フロントエンド
@@ -47,3 +54,6 @@ GitHub|[https://github.com/pocka](https://github.com/pocka)
 + Go
   - `net/http`
   - `go-swagger`を用いたOpenAPIによる定義からのコード生成
+  - `gin`
++ Python
+  - `flask`
