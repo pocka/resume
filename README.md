@@ -1,5 +1,11 @@
 # 職務経歴書
 
+![No goal](https://img.shields.io/badge/career-building-yellow.svg)
+![Alone](https://img.shields.io/badge/dependencies-none-brightgreen.svg)
+[![](https://img.shields.io/badge/status-at%20impv-brightgreen.svg)](https://www.impv.co.jp/)
+[![Contact](https://img.shields.io/badge/contact-email-brightgreen.svg)](mailto:pocka.moe@gmail.com)
+
+
 ## 基本情報
 
 項目|情報
@@ -8,6 +14,10 @@
 生年月日|1993/04/03
 GitHub|[https://github.com/pocka](https://github.com/pocka)
 個人Website|<https://log.pocka.io>, <https://pocka.onl>
+
+```ts
+const age = Math.floor((parseInt(new Date().toISOString().replace(/^(\d{4})-(\d{2})-(\d{2}).*$/, '$1$2$3')) - parseInt('19930403')) / 10000)
+```
 
 ## 職務経歴
 
