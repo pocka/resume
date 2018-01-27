@@ -5,8 +5,9 @@
 項目|情報
 ---|---
 氏名|藤井晶太
+生年月日|1993/04/03
 GitHub|[https://github.com/pocka](https://github.com/pocka)
-個人Website|[https://pocka.onl](https://pocka.onl)
+個人Website|<https://log.pocka.io>, <https://pocka.onl>
 
 ## 職務経歴
 
@@ -21,39 +22,52 @@ GitHub|[https://github.com/pocka](https://github.com/pocka)
 
 期間|業務内容|担当業務
 ---|---|---|
-2014/08/01~2017/03/31|官公庁システムの運用業務|システム監視、業務・システムオペレーション、報告書作成、内部ツール作成
+2014/08/01~2017/03/31|官公庁システムの運用業務|オペレータ
 
 ### 株式会社インプレッシブ
 
 期間|業務内容|担当業務
 ---|---|---|
 2017/05/08~|サーバサイドエンジニアリング|設計・実装
+||フロントエンドエンジニアリング|設計・実装
 
 
 ## スキル
 
+- :+1: 得意
+- :confused: あまり関心がない
+
+
 ### フロントエンド
-+ HTML5
++ HTML
   - pug(f.k.a. Jade)
-+ CSS3
-  - SASS
++ CSS
+  - SASS(SCSS)
+  - PostCSS
 + JavaScript
-  - ES2015
-  - TypeScript2.0
-  - [wisp](https://github.com/Gozala/wisp)
+  - ES2015+
+  - TypeScript :+1:
 + ライブラリ関連
-  - React
-  - Redux
-  - `react-router`
-  - [deku](https://github.com/anthonyshort/deku)
+  - React (+ Redux) :+1:
+  - Vue.js (+ Vuex)
+  - Hyperapp
+  - Webpack :+1:
 
 ### バックエンド
 
-+ PHP
-  - フレームワーク使用経験なし
-+ Go
-  - `net/http`
-  - `go-swagger`を用いたOpenAPIによる定義からのコード生成
-  - `gin`
++ Node.js :+1:
+  - Express :+1:
++ Go :+1:
+  - net/http
+  - gin
 + Python
-  - `flask`
+  - flask :confused:
++ PHP :confused:
+  - Laravel
+
+### その他
+
++ OpenAPI(swagger)
++ Docker
++ HTTP(RESTful API)
++ Linux
