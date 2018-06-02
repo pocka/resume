@@ -2,7 +2,7 @@
 
 ![No goal](https://img.shields.io/badge/career-building-yellow.svg)
 ![Alone](https://img.shields.io/badge/dependencies-none-brightgreen.svg)
-[![Organization](https://img.shields.io/badge/organization%20impv-brightgreen.svg)](https://www.impv.co.jp/)
+[![Organization](https://img.shields.io/badge/organization-impv-brightgreen.svg)](https://www.impv.co.jp/)
 [![Contact](https://img.shields.io/badge/contact-email-brightgreen.svg)](mailto:pockawoooh@gmail.com)
 
 
