@@ -2,8 +2,8 @@
 
 ![No goal](https://img.shields.io/badge/career-building-yellow.svg)
 ![Alone](https://img.shields.io/badge/dependencies-none-brightgreen.svg)
-[![](https://img.shields.io/badge/status-at%20impv-brightgreen.svg)](https://www.impv.co.jp/)
-[![Contact](https://img.shields.io/badge/contact-email-brightgreen.svg)](mailto:pocka.moe@gmail.com)
+[![Organization](https://img.shields.io/badge/organization%20impv-brightgreen.svg)](https://www.impv.co.jp/)
+[![Contact](https://img.shields.io/badge/contact-email-brightgreen.svg)](mailto:pockawoooh@gmail.com)
 
 
 ## 基本情報
@@ -32,35 +32,32 @@ const age = Math.floor((parseInt(new Date().toISOString().replace(/^(\d{4})-(\d{
 
 期間|業務内容|担当業務
 ---|---|---|
-2014/08/01~2017/03/31|官公庁システムの運用業務|オペレータ
+2014/08/01~2017/03/31|運用業務|オペレータ
 
 ### 株式会社インプレッシブ
 
 期間|業務内容|担当業務
 ---|---|---|
 2017/05/08~|サーバサイドエンジニアリング|設計・実装
-||フロントエンドエンジニアリング|設計・実装
+||フロントエンドエンジニアリング|設計・実装・技術指導
 
 
 ## スキル
 
-- :+1: 得意
-- :confused: あまり関心がない
-
-
 ### フロントエンド
-+ HTML
++ マークアップ
+  - HTML
   - pug(f.k.a. Jade)
-+ CSS
++ スタイリング
+  - CSS
   - SASS(SCSS)
-  - PostCSS
+  - Styled-components
 + JavaScript
   - ES2015+
   - TypeScript :+1:
 + ライブラリ関連
   - React (+ Redux) :+1:
   - Vue.js (+ Vuex)
-  - Hyperapp
   - Webpack :+1:
 
 ### バックエンド
@@ -68,16 +65,8 @@ const age = Math.floor((parseInt(new Date().toISOString().replace(/^(\d{4})-(\d{
 + Node.js :+1:
   - Express :+1:
 + Go :+1:
-  - net/http
-  - gin
-+ Python
-  - flask :confused:
-+ PHP :confused:
-  - Laravel
 
 ### その他
 
 + OpenAPI(swagger)
 + Docker
-+ HTTP(RESTful API)
-+ Linux
