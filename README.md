@@ -1,11 +1,5 @@
 # 職務経歴書
 
-![No goal](https://img.shields.io/badge/career-building-yellow.svg)
-![Alone](https://img.shields.io/badge/dependencies-none-brightgreen.svg)
-[![Organization](https://img.shields.io/badge/organization-impv-brightgreen.svg)](https://www.impv.co.jp/)
-[![Contact](https://img.shields.io/badge/contact-email-brightgreen.svg)](mailto:pockawoooh@gmail.com)
-
-
 ## 基本情報
 
 項目|情報
@@ -14,10 +8,6 @@
 生年月日|1993/04/03
 GitHub|[https://github.com/pocka](https://github.com/pocka)
 個人Website|<https://log.pocka.io>, <https://pocka.onl>
-
-```ts
-const age = Math.floor((parseInt(new Date().toISOString().replace(/^(\d{4})-(\d{2})-(\d{2}).*$/, '$1$2$3')) - parseInt('19930403')) / 10000)
-```
 
 ## 職務経歴
 
@@ -45,28 +35,26 @@ const age = Math.floor((parseInt(new Date().toISOString().replace(/^(\d{4})-(\d{
 ## スキル
 
 ### フロントエンド
-+ マークアップ
-  - HTML
-  - pug(f.k.a. Jade)
-+ スタイリング
-  - CSS
-  - SASS(SCSS)
-  - Styled-components
-+ JavaScript
-  - ES2015+
-  - TypeScript :+1:
-+ ライブラリ関連
-  - React (+ Redux) :+1:
-  - Vue.js (+ Vuex)
-  - Webpack :+1:
+
+- ES2015+
+- TypeScript
+- React / Redux
+- Vue.js / Vuex
+- Webpack
+- Storybook
+- styled-components
+- pug(f.k.a. Jade)
+- SASS/SCSS
 
 ### バックエンド
 
-+ Node.js :+1:
-  - Express :+1:
-+ Go :+1:
++ Node.js
+  - Express
+  - Serverless Framework
++ Go
 
 ### その他
 
-+ OpenAPI(swagger)
++ OpenAPI(swagger)を用いたドキュメンテーション
++ GraphQL
 + Docker
