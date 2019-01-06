@@ -4,10 +4,10 @@
 
 項目|情報
 ---|---
-氏名|藤井晶太
+氏名|藤井 晶太
 生年月日|1993/04/03
 GitHub|[https://github.com/pocka](https://github.com/pocka)
-個人Website|<https://log.pocka.io>, <https://pocka.onl>
+技術ブログ|<https://log.pocka.io>
 
 ## 職務経歴
 
@@ -39,12 +39,13 @@ GitHub|[https://github.com/pocka](https://github.com/pocka)
 - ES2015+
 - TypeScript
 - React / Redux
-- Vue.js / Vuex
+- Vue.js / Vuex / Nuxt.js
 - Webpack
 - Storybook
 - styled-components
 - pug(f.k.a. Jade)
 - SASS/SCSS
+- Web Components
 
 ### バックエンド
 
