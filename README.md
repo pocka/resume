@@ -34,32 +34,4 @@ GitHub|[https://github.com/pocka](https://github.com/pocka)
 
 ## スキル
 
-### フロントエンド
-
-#### 言語
-
-- ES2015+
-- TypeScript
-
-#### ライブラリ/API
-
-- React(+ Hooks API) / Redux
-- Vue.js / Nuxt.js
-- Web Components
-
-#### ツール類
-
-- webpack
-- Storybook
-
-#### スタイリング周り
-
-- emotion, styled-components
-- SASS/SCSS
-
-### バックエンド
-
-+ Node.js
-  - Express
-  - サーバレス
-+ Go
+<https://pocka.me/#skills> (English)
